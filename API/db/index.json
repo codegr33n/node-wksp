@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Jungle",
+    "pages": 5000,
+    "publishedYear": 2023,
+    "price": 999,
+    "isbn": 23577,
+    "quantity": 100
+  },
+  {
+    "id": 2,
+    "title": "Manny Island",
+    "pages": 700,
+    "publishedYear": 2021,
+    "price": 500,
+    "isbn": 111444,
+    "quantity": 50
+  }
+]

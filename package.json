@@ -1,0 +1,21 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "modules.js",
+  "scripts": {
+    "start:dev": "nodemon http.js"
+  },
+  "keywords": [],
+  "author": "Green Bright",
+  "repository": "erererer",
+  "contributors": [
+    "Reece",
+    "Green"
+  ],
+  "license": "ISC",
+  "devDependencies": {
+    "cowsay": "1.5.0",
+    "nodemon": "2.0.22"
+  }
+}
